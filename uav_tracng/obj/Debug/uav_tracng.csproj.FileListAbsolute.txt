@@ -1,0 +1,17 @@
+C:\Users\Anton\source\repos\uav_tracng\bin\Debug\uav_tracng.exe.config
+C:\Users\Anton\source\repos\uav_tracng\bin\Debug\uav_tracng.exe
+C:\Users\Anton\source\repos\uav_tracng\bin\Debug\uav_tracng.pdb
+C:\Users\Anton\source\repos\uav_tracng\obj\Debug\uav_tracng.csprojAssemblyReference.cache
+C:\Users\Anton\source\repos\uav_tracng\obj\Debug\uav_tracng.Properties.Resources.resources
+C:\Users\Anton\source\repos\uav_tracng\obj\Debug\uav_tracng.csproj.GenerateResource.cache
+C:\Users\Anton\source\repos\uav_tracng\obj\Debug\uav_tracng.exe
+C:\Users\Anton\source\repos\uav_tracng\obj\Debug\uav_tracng.pdb
+C:\Users\Anton\source\repos\uav_tracng\obj\Debug\uav_tracng.MainForm.resources
+C:\Users\Anton\source\repos\uav_tracng\obj\Debug\uav_tracng.ResultForm.resources
+C:\Users\Anton\source\repos\uav_tracng\obj\Debug\uav_tracng.CrosstalkForm.resources
+C:\Users\Anton\source\repos\uav_tracng\obj\Debug\uav_tracng.Help.resources
+C:\Users\Anton\source\repos\uav_tracng\obj\Debug\uav_tracng.ProjectCreation.resources
+C:\Users\Anton\source\repos\uav_tracng\obj\Debug\uav_tracng.Start.resources
+C:\Users\Anton\source\repos\uav_tracng\obj\Debug\uav_tracng.chanellsVolume.resources
+C:\Users\Anton\source\repos\uav_tracng\obj\Debug\uav_tracng.CountDevices.resources
+C:\Users\Anton\source\repos\uav_tracng\obj\Debug\uav_tracng.CountCon.resources
